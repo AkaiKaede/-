@@ -1,0 +1,7 @@
+﻿  system.c
+C:\Users\poppy\Desktop\code\c\书店管理系统\书店管理系统\system.c(124,8): warning C4101: “fp”: 未引用的局部变量
+C:\Users\poppy\Desktop\code\c\书店管理系统\书店管理系统\system.c(189,15): warning C4101: “a”: 未引用的局部变量
+C:\Users\poppy\Desktop\code\c\书店管理系统\书店管理系统\system.c(189,18): warning C4101: “b”: 未引用的局部变量
+C:\Users\poppy\Desktop\code\c\书店管理系统\书店管理系统\system.c(190,13): warning C4101: “bk”: 未引用的局部变量
+C:\Users\poppy\Desktop\code\c\书店管理系统\书店管理系统\system.c(189,12): warning C4101: “j”: 未引用的局部变量
+  书店管理系统.vcxproj -> C:\Users\poppy\Desktop\code\c\书店管理系统\x64\Debug\书店管理系统.exe
